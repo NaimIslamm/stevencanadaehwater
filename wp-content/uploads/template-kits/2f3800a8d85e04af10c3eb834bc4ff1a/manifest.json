@@ -1,0 +1,1213 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Divin - template kit for Diving school",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/theme.creativemox.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/divin\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/divin\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/divin\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/divin\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/divin\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Course",
+            "screenshot": "screenshots\/course.jpg",
+            "source": "templates\/course.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/divin\/template-kit\/course\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coach",
+            "screenshot": "screenshots\/coach.jpg",
+            "source": "templates\/coach.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/divin\/template-kit\/coach\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/divin\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/divin\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Divin - Header",
+            "screenshot": "screenshots\/divin-header.jpg",
+            "source": "templates\/divin-header.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/divin\/?elementor_library=divin-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Divin - Footer",
+            "screenshot": "screenshots\/divin-footer.jpg",
+            "source": "templates\/divin-footer.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/divin\/?elementor_library=divin-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Divin - Blog",
+            "screenshot": "screenshots\/divin-blog.jpg",
+            "source": "templates\/divin-blog.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/divin\/?elementor_library=divin-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Divin - Single Post",
+            "screenshot": "screenshots\/divin-single-post.jpg",
+            "source": "templates\/divin-single-post.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/divin\/?elementor_library=divin-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: All Singular."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Divin - Error 404",
+            "screenshot": "screenshots\/divin-error-404.jpg",
+            "source": "templates\/divin-error-404.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/divin\/?elementor_library=divin-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.7",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.18.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.16.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "diving-mask-and-snorkel-on-wooden-floor.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/diving-mask-and-snorkel-on-wooden-floor-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 240041,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/diving-mask-and-snorkel-on-wooden-floor-VKB5JAJ"
+        },
+        {
+            "filename": "diver-diving-into-the-blue-e1704826754451.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/diver-diving-into-the-blue-e1704826754451-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 52917,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6754451"
+        },
+        {
+            "filename": "real-ray-of-light-from-underwater.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/real-ray-of-light-from-underwater-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/divin-footer.json",
+                    "name": "Divin - Footer"
+                }
+            ],
+            "filesize": 229953,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PN6LQ42"
+        },
+        {
+            "filename": "male-diver-puts-on-oxygen-tank-diving-school-2023-11-27-05-14-09-utc-1-e1705481151170.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/male-diver-puts-on-oxygen-tank-diving-school-2023-11-27-05-14-09-utc-1-800x532.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 164539,
+            "dimensions": [
+                725,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/male-diver-puts-on-oxygen-tank-diving-school-YTVDQDQ"
+        },
+        {
+            "filename": "logo-8.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/logo-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2088,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-18.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/logo-18.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4380,
+            "dimensions": [
+                177,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-19.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/logo-19.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2752,
+            "dimensions": [
+                177,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-20.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/logo-20.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3196,
+            "dimensions": [
+                177,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-22.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/logo-22.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3869,
+            "dimensions": [
+                177,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-23.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/logo-23.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3275,
+            "dimensions": [
+                177,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "underwater-scuba-diving-selfie-shot-with-selfie-stick-deep-blue-sea-wide-angle-shot-1-2.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/underwater-scuba-diving-selfie-shot-with-selfie-stick-deep-blue-sea-wide-angle-shot-1-2-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 389123,
+            "dimensions": [
+                2000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E2EKTGC"
+        },
+        {
+            "filename": "two-divers-practicing-a-very-safe-descent-holding-on-to-a-rope.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/two-divers-practicing-a-very-safe-descent-holding-on-to-a-rope-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 65376,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-divers-practicing-a-very-safe-descent-holding--KRCXUF2"
+        },
+        {
+            "filename": "dive-master-hand-feeding-female-bull-shark-playa-del-carmen-quintana-roo-mexico.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/dive-master-hand-feeding-female-bull-shark-playa-del-carmen-quintana-roo-mexico-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                }
+            ],
+            "filesize": 144798,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/dive-master-hand-feeding-female-bull-shark-playa-d-SQP6MGQ"
+        },
+        {
+            "filename": "two-silhouetted-diver-ascend-an-anchor-line-at-the-end-of-a-scuba-dive.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/two-silhouetted-diver-ascend-an-anchor-line-at-the-end-of-a-scuba-dive-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                },
+                {
+                    "source": "templates\/coach.json",
+                    "name": "Coach"
+                }
+            ],
+            "filesize": 185006,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z7FDC52"
+        },
+        {
+            "filename": "male-diver-puts-on-oxygen-tank-diving-school.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2023\/12\/male-diver-puts-on-oxygen-tank-diving-school-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                }
+            ],
+            "filesize": 122627,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YTVDQDQ"
+        },
+        {
+            "filename": "female-diver-and-male-instructor-diving-school.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/female-diver-and-male-instructor-diving-school-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 197903,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-diver-and-male-instructor-diving-school-KAYAXWC"
+        },
+        {
+            "filename": "divers-in-a-cave.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/divers-in-a-cave-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                }
+            ],
+            "filesize": 78507,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/divers-in-a-cave-2TUCDBP"
+        },
+        {
+            "filename": "divemaster-and-divers-in-aqualungs-diving-school.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/divemaster-and-divers-in-aqualungs-diving-school-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                }
+            ],
+            "filesize": 217704,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/divemaster-and-divers-in-aqualungs-diving-school-2M3T86W"
+        },
+        {
+            "filename": "male-instructor-helps-woman-to-put-on-fins-diving.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2023\/12\/male-instructor-helps-woman-to-put-on-fins-diving-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                }
+            ],
+            "filesize": 155970,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BWDWYQA"
+        },
+        {
+            "filename": "technical-diving-in-a-cenote-in-mexico-.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/technical-diving-in-a-cenote-in-mexico--800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 67602,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/technical-diving-in-a-cenote-in-mexico-DTC5Y9S"
+        },
+        {
+            "filename": "08.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                },
+                {
+                    "source": "templates\/coach.json",
+                    "name": "Coach"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 43784,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "03.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                },
+                {
+                    "source": "templates\/coach.json",
+                    "name": "Coach"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 42463,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "12.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                },
+                {
+                    "source": "templates\/coach.json",
+                    "name": "Coach"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 49215,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "scuba-diver-professional-diving-in-a-shipwreck.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/scuba-diver-professional-diving-in-a-shipwreck-800x718.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 192964,
+            "dimensions": [
+                1280,
+                1149
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/scuba-diver-professional-diving-in-a-shipwreck-JMABY45"
+        },
+        {
+            "filename": "female-diver-and-male-divemaster-diving-school.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/female-diver-and-male-divemaster-diving-school-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 136483,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-diver-and-male-divemaster-diving-school-BMDBVW4"
+        },
+        {
+            "filename": "underwater-scuba-diving-selfie-shot-with-selfie-stick-deep-blue-sea-wide-angle-shot-.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/underwater-scuba-diving-selfie-shot-with-selfie-stick-deep-blue-sea-wide-angle-shot--800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 186331,
+            "dimensions": [
+                1280,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/underwater-scuba-diving-selfie-shot-with-selfie-st-JNZY6JE"
+        },
+        {
+            "filename": "underwater-scuba-diving-selfie-shot-with-selfie-stick-deep-blue-sea-wide-angle-shot-1-1.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/underwater-scuba-diving-selfie-shot-with-selfie-stick-deep-blue-sea-wide-angle-shot-1-1-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 166052,
+            "dimensions": [
+                1280,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/underwater-scuba-diving-selfie-shot-with-selfie-st-MFENHA9"
+        },
+        {
+            "filename": "underwater-photo-of-woman-in-fins-diving-mask-and-snorkel-diving-alone-in-ocean.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/underwater-photo-of-woman-in-fins-diving-mask-and-snorkel-diving-alone-in-ocean-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 77998,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/underwater-photo-of-woman-in-fins-diving-mask-and--5GCUWQ8"
+        },
+        {
+            "filename": "instructor-and-divers-in-aqualungs-dive-lesson-e1703668038196.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/instructor-and-divers-in-aqualungs-dive-lesson-e1703668038196-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/coach.json",
+                    "name": "Coach"
+                }
+            ],
+            "filesize": 153514,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8038196"
+        },
+        {
+            "filename": "male-instructor-helps-woman-to-put-on-fins-diving.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/male-instructor-helps-woman-to-put-on-fins-diving-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 155933,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/male-instructor-helps-woman-to-put-on-fins-diving-BWDWYQA"
+        },
+        {
+            "filename": "01-1.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/01-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coach.json",
+                    "name": "Coach"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 38209,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "20.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/20.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coach.json",
+                    "name": "Coach"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 35130,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "19.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/19.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coach.json",
+                    "name": "Coach"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 24722,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "04.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coach.json",
+                    "name": "Coach"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 50580,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "09.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/09.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coach.json",
+                    "name": "Coach"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 37887,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "27.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/27.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coach.json",
+                    "name": "Coach"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 27209,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "woman-and-male-instructor-in-suits-diving-school.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/woman-and-male-instructor-in-suits-diving-school-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 156269,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-and-male-instructor-in-suits-diving-school-2G83EDU"
+        },
+        {
+            "filename": "logo_divin.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/logo_divin.png",
+            "templates": [
+                {
+                    "source": "templates\/divin-header.json",
+                    "name": "Divin - Header"
+                },
+                {
+                    "source": "templates\/divin-footer.json",
+                    "name": "Divin - Footer"
+                }
+            ],
+            "filesize": 5551,
+            "dimensions": [
+                330,
+                151
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "a-young-man-is-diving-swims-in-a-diving-suit-extreme-sport-diving-.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/a-young-man-is-diving-swims-in-a-diving-suit-extreme-sport-diving--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/divin-blog.json",
+                    "name": "Divin - Blog"
+                }
+            ],
+            "filesize": 179354,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-young-man-is-diving-swims-in-a-diving-suit-extre-R5CV5X6"
+        },
+        {
+            "filename": "11.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/divin\/wp-content\/uploads\/sites\/6\/2024\/01\/11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/divin-single-post.json",
+                    "name": "Divin - Single Post"
+                }
+            ],
+            "filesize": 40590,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        }
+    ]
+}

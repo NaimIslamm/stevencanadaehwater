@@ -1,0 +1,1139 @@
+# Copyright (C) 2025 WPClever
+# This file is distributed under the same license as the WPC Frequently Bought Together for WooCommerce (Premium) plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Frequently Bought Together for WooCommerce (Premium) 7.7.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-bought-together-premium\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-24T07:19:43+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: woo-bought-together\n"
+
+#. Plugin Name of the plugin
+#: wpc-frequently-bought-together.php
+msgid "WPC Frequently Bought Together for WooCommerce (Premium)"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: wpc-frequently-bought-together.php
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+#: wpc-frequently-bought-together.php
+msgid "Increase your sales with personalized product recommendations."
+msgstr ""
+
+#. Author of the plugin
+#: wpc-frequently-bought-together.php
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+#: wpc-frequently-bought-together.php
+msgid "https://wpclever.net"
+msgstr ""
+
+#. translators: product name
+#: includes/class-blocks.php:135
+#: includes/class-woobt.php:798
+#: includes/class-woobt.php:1661
+#: includes/class-woobt.php:2138
+#, php-format
+msgid "(bought together %s)"
+msgstr ""
+
+#: includes/class-woobt.php:170
+msgid "Above add to cart form"
+msgstr ""
+
+#: includes/class-woobt.php:171
+msgid "Under add to cart form"
+msgstr ""
+
+#: includes/class-woobt.php:172
+msgid "Above add to cart button"
+msgstr ""
+
+#: includes/class-woobt.php:173
+msgid "Under add to cart button"
+msgstr ""
+
+#: includes/class-woobt.php:174
+msgid "Under the title"
+msgstr ""
+
+#: includes/class-woobt.php:175
+msgid "Under the price"
+msgstr ""
+
+#: includes/class-woobt.php:176
+msgid "Under the excerpt"
+msgstr ""
+
+#: includes/class-woobt.php:177
+msgid "Under the meta"
+msgstr ""
+
+#: includes/class-woobt.php:178
+msgid "Above summary"
+msgstr ""
+
+#: includes/class-woobt.php:179
+msgid "Under summary"
+msgstr ""
+
+#: includes/class-woobt.php:180
+msgid "None (hide it)"
+msgstr ""
+
+#: includes/class-woobt.php:277
+#: includes/class-woobt.php:292
+msgid "WPC Frequently Bought Together"
+msgstr ""
+
+#: includes/class-woobt.php:277
+#: includes/class-woobt.php:2381
+msgid "Bought Together"
+msgstr ""
+
+#: includes/class-woobt.php:292
+msgid "Premium"
+msgstr ""
+
+#. translators: stars
+#: includes/class-woobt.php:295
+#, php-format
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: includes/class-woobt.php:298
+msgid "Reviews"
+msgstr ""
+
+#: includes/class-woobt.php:300
+msgid "Changelog"
+msgstr ""
+
+#: includes/class-woobt.php:302
+msgid "Discussion"
+msgstr ""
+
+#: includes/class-woobt.php:310
+msgid "Settings updated."
+msgstr ""
+
+#: includes/class-woobt.php:317
+#: includes/class-woobt.php:1599
+msgid "Settings"
+msgstr ""
+
+#: includes/class-woobt.php:321
+msgid "Smart Rules"
+msgstr ""
+
+#: includes/class-woobt.php:325
+msgid "Localization"
+msgstr ""
+
+#: includes/class-woobt.php:329
+msgid "Tools"
+msgstr ""
+
+#: includes/class-woobt.php:333
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class-woobt.php:337
+msgid "Support"
+msgstr ""
+
+#: includes/class-woobt.php:341
+msgid "Essential Kit"
+msgstr ""
+
+#: includes/class-woobt.php:373
+#: includes/class-woobt.php:727
+msgid "General"
+msgstr ""
+
+#: includes/class-woobt.php:377
+msgid "Pricing method"
+msgstr ""
+
+#: includes/class-woobt.php:380
+msgid "from Sale price"
+msgstr ""
+
+#: includes/class-woobt.php:381
+msgid "from Regular price"
+msgstr ""
+
+#: includes/class-woobt.php:383
+msgid "Calculate prices from the sale price (default) or regular price of products."
+msgstr ""
+
+#: includes/class-woobt.php:387
+msgid "Smart rules"
+msgstr ""
+
+#: includes/class-woobt.php:395
+msgid "Default products"
+msgstr ""
+
+#: includes/class-woobt.php:397
+msgid "Choose which to be used as default Bought Together for products with no item list  specified individually or no Smart Rules applicable."
+msgstr ""
+
+#: includes/class-woobt.php:430
+msgid "Related products"
+msgstr ""
+
+#: includes/class-woobt.php:438
+msgid "Upsells products"
+msgstr ""
+
+#: includes/class-woobt.php:446
+msgid "Cross-sells products"
+msgstr ""
+
+#: includes/class-woobt.php:454
+#: includes/class-woobt.php:1189
+msgid "Limit"
+msgstr ""
+
+#: includes/class-woobt.php:464
+#: includes/class-woobt.php:1122
+msgid "New price"
+msgstr ""
+
+#: includes/class-woobt.php:471
+#: includes/class-woobt.php:1129
+msgid "Set a new price for each product using a number (eg. \"49\") or percentage (eg. \"90%\" of original price)."
+msgstr ""
+
+#: includes/class-woobt.php:475
+#: includes/class-woobt.php:1133
+#: includes/class-woobt.php:2523
+msgid "Discount"
+msgstr ""
+
+#: includes/class-woobt.php:482
+#: includes/class-woobt.php:1140
+#: includes/class-woobt.php:2530
+msgid "Discount for the main product when buying at least one product in this list."
+msgstr ""
+
+#: includes/class-woobt.php:489
+#: includes/class-woobt.php:2592
+msgid "Layout"
+msgstr ""
+
+#: includes/class-woobt.php:492
+#: includes/class-woobt.php:2596
+msgid "List"
+msgstr ""
+
+#: includes/class-woobt.php:493
+#: includes/class-woobt.php:2597
+msgid "Compact"
+msgstr ""
+
+#: includes/class-woobt.php:494
+#: includes/class-woobt.php:2598
+msgid "Separate images"
+msgstr ""
+
+#: includes/class-woobt.php:495
+#: includes/class-woobt.php:616
+#: includes/class-woobt.php:2599
+msgid "Grid - 2 columns"
+msgstr ""
+
+#: includes/class-woobt.php:496
+#: includes/class-woobt.php:617
+#: includes/class-woobt.php:2600
+msgid "Grid - 3 columns"
+msgstr ""
+
+#: includes/class-woobt.php:497
+#: includes/class-woobt.php:618
+#: includes/class-woobt.php:2601
+msgid "Grid - 4 columns"
+msgstr ""
+
+#: includes/class-woobt.php:498
+#: includes/class-woobt.php:2602
+msgid "Carousel - 2 columns"
+msgstr ""
+
+#: includes/class-woobt.php:499
+#: includes/class-woobt.php:2603
+msgid "Carousel - 3 columns"
+msgstr ""
+
+#: includes/class-woobt.php:500
+#: includes/class-woobt.php:2604
+msgid "Carousel - 4 columns"
+msgstr ""
+
+#: includes/class-woobt.php:505
+#: includes/class-woobt.php:2609
+msgid "Position"
+msgstr ""
+
+#: includes/class-woobt.php:520
+#: includes/class-woobt.php:2624
+msgid "Choose the position to show the products list. You also can use the shortcode [woobt] to show the list where you want."
+msgstr ""
+
+#: includes/class-woobt.php:524
+#: includes/class-woobt.php:2628
+msgid "Add to cart button"
+msgstr ""
+
+#: includes/class-woobt.php:528
+#: includes/class-woobt.php:2632
+msgid "Main product's button"
+msgstr ""
+
+#: includes/class-woobt.php:529
+#: includes/class-woobt.php:2633
+msgid "Separate buttons"
+msgstr ""
+
+#: includes/class-woobt.php:534
+#: includes/class-woobt.php:2638
+msgid "Show \"this item\""
+msgstr ""
+
+#: includes/class-woobt.php:539
+#: includes/class-woobt.php:549
+#: includes/class-woobt.php:559
+#: includes/class-woobt.php:578
+#: includes/class-woobt.php:587
+#: includes/class-woobt.php:645
+#: includes/class-woobt.php:657
+#: includes/class-woobt.php:684
+#: includes/class-woobt.php:699
+#: includes/class-woobt.php:1093
+#: includes/class-woobt.php:1448
+#: includes/class-woobt.php:1457
+#: includes/class-woobt.php:1467
+#: includes/class-woobt.php:1477
+#: includes/class-woobt.php:1487
+#: includes/class-woobt.php:2642
+msgid "Yes"
+msgstr ""
+
+#: includes/class-woobt.php:540
+#: includes/class-woobt.php:550
+#: includes/class-woobt.php:560
+#: includes/class-woobt.php:570
+#: includes/class-woobt.php:579
+#: includes/class-woobt.php:588
+#: includes/class-woobt.php:631
+#: includes/class-woobt.php:646
+#: includes/class-woobt.php:659
+#: includes/class-woobt.php:685
+#: includes/class-woobt.php:700
+#: includes/class-woobt.php:1094
+#: includes/class-woobt.php:1449
+#: includes/class-woobt.php:1458
+#: includes/class-woobt.php:1468
+#: includes/class-woobt.php:1478
+#: includes/class-woobt.php:1488
+#: includes/class-woobt.php:2643
+msgid "No"
+msgstr ""
+
+#: includes/class-woobt.php:542
+#: includes/class-woobt.php:2645
+msgid "\"This item\" cannot be hidden if \"Separate buttons\" is in use for the Add to Cart button."
+msgstr ""
+
+#: includes/class-woobt.php:546
+msgid "Exclude unpurchasable"
+msgstr ""
+
+#: includes/class-woobt.php:552
+msgid "Exclude unpurchasable products from the list."
+msgstr ""
+
+#: includes/class-woobt.php:556
+msgid "Show thumbnail"
+msgstr ""
+
+#: includes/class-woobt.php:565
+msgid "Show price"
+msgstr ""
+
+#: includes/class-woobt.php:568
+#: includes/class-woobt.php:1202
+msgid "Price"
+msgstr ""
+
+#: includes/class-woobt.php:569
+msgid "Total"
+msgstr ""
+
+#: includes/class-woobt.php:575
+msgid "Show short description"
+msgstr ""
+
+#: includes/class-woobt.php:584
+msgid "Show plus/minus button"
+msgstr ""
+
+#: includes/class-woobt.php:590
+msgid "Show the plus/minus button for the quantity input."
+msgstr ""
+
+#: includes/class-woobt.php:594
+msgid "Variations selector"
+msgstr ""
+
+#: includes/class-woobt.php:599
+#: includes/class-woobt.php:1196
+#: includes/class-woobt.php:1210
+msgid "Default"
+msgstr ""
+
+#: includes/class-woobt.php:600
+msgid "Use WPC Variations Radio Buttons"
+msgstr ""
+
+#: includes/class-woobt.php:609
+msgid "Selector interface"
+msgstr ""
+
+#: includes/class-woobt.php:611
+msgid "Unset"
+msgstr ""
+
+#: includes/class-woobt.php:612
+msgid "ddSlick"
+msgstr ""
+
+#: includes/class-woobt.php:613
+msgid "Select2"
+msgstr ""
+
+#: includes/class-woobt.php:614
+msgid "Radio buttons"
+msgstr ""
+
+#: includes/class-woobt.php:615
+msgid "HTML select tag"
+msgstr ""
+
+#: includes/class-woobt.php:620
+msgid "Choose a selector interface that apply for variations of frequently bought together products only."
+msgstr ""
+
+#: includes/class-woobt.php:625
+msgid "Link to individual product"
+msgstr ""
+
+#: includes/class-woobt.php:628
+msgid "Yes, open in the same tab"
+msgstr ""
+
+#: includes/class-woobt.php:629
+msgid "Yes, open in the new tab"
+msgstr ""
+
+#: includes/class-woobt.php:630
+msgid "Yes, open quick view popup"
+msgstr ""
+
+#: includes/class-woobt.php:642
+msgid "Change image"
+msgstr ""
+
+#: includes/class-woobt.php:648
+msgid "Change the main product image when choosing the variation of variable products."
+msgstr ""
+
+#: includes/class-woobt.php:652
+msgid "Change price"
+msgstr ""
+
+#: includes/class-woobt.php:658
+msgid "Yes, custom selector"
+msgstr ""
+
+#: includes/class-woobt.php:666
+msgid "Change the main product price when choosing the variation or quantity of products. It uses JavaScript to change product price so it is very dependent on theme’s HTML. If it cannot find and update the product price, please contact us and we can help you find the right selector or adjust the JS file."
+msgstr ""
+
+#: includes/class-woobt.php:670
+msgid "Counter"
+msgstr ""
+
+#: includes/class-woobt.php:673
+msgid "Count the individual products"
+msgstr ""
+
+#: includes/class-woobt.php:674
+msgid "Count the product quantities"
+msgstr ""
+
+#: includes/class-woobt.php:675
+msgid "Hide"
+msgstr ""
+
+#: includes/class-woobt.php:677
+msgid "Counter on the add to cart button."
+msgstr ""
+
+#: includes/class-woobt.php:681
+msgid "Responsive"
+msgstr ""
+
+#: includes/class-woobt.php:687
+msgid "Change the layout for small screen devices."
+msgstr ""
+
+#: includes/class-woobt.php:692
+msgid "Cart & Checkout"
+msgstr ""
+
+#: includes/class-woobt.php:696
+msgid "Change quantity"
+msgstr ""
+
+#: includes/class-woobt.php:702
+msgid "Buyer can change the quantity of associated products or not?"
+msgstr ""
+
+#: includes/class-woobt.php:707
+#: includes/class-woobt.php:2443
+msgid "Search"
+msgstr ""
+
+#: includes/class-woobt.php:716
+#: includes/class-woobt.php:868
+#: includes/class-woobt.php:1041
+msgid "import / export"
+msgstr ""
+
+#: includes/class-woobt.php:729
+msgid "Leave blank to use the default text and its equivalent translation in multiple languages."
+msgstr ""
+
+#: includes/class-woobt.php:733
+msgid "This item"
+msgstr ""
+
+#: includes/class-woobt.php:739
+#: includes/class-woobt.php:3200
+msgid "This item:"
+msgstr ""
+
+#: includes/class-woobt.php:744
+msgid "Choose an attribute"
+msgstr ""
+
+#. translators: attribute name
+#: includes/class-woobt.php:751
+#: includes/class-woobt.php:3253
+#: includes/class-woobt.php:3279
+#: includes/class-woobt.php:3570
+#: includes/class-woobt.php:3594
+#, php-format
+msgid "Choose %s"
+msgstr ""
+
+#. translators: attribute name
+#: includes/class-woobt.php:754
+#, php-format
+msgid "Use %s to show the attribute name."
+msgstr ""
+
+#: includes/class-woobt.php:758
+#: includes/class-woobt.php:764
+#: includes/class-woobt.php:3289
+#: includes/class-woobt.php:3604
+msgid "Clear"
+msgstr ""
+
+#: includes/class-woobt.php:769
+msgid "Additional price"
+msgstr ""
+
+#: includes/class-woobt.php:775
+#: includes/class-woobt.php:1543
+msgid "Additional price:"
+msgstr ""
+
+#: includes/class-woobt.php:780
+msgid "Total price"
+msgstr ""
+
+#: includes/class-woobt.php:786
+#: includes/class-woobt.php:1544
+msgid "Total:"
+msgstr ""
+
+#: includes/class-woobt.php:791
+msgid "Associated"
+msgstr ""
+
+#. translators: product name
+#: includes/class-woobt.php:800
+#, php-format
+msgid "The text behind associated products. Use \"%s\" for the main product name."
+msgstr ""
+
+#: includes/class-woobt.php:804
+#: includes/class-woobt.php:810
+#: includes/class-woobt.php:1545
+msgid "Add to cart"
+msgstr ""
+
+#: includes/class-woobt.php:815
+#: includes/class-woobt.php:821
+#: includes/class-woobt.php:1545
+#: includes/class-woobt.php:3761
+msgid "Add all to cart"
+msgstr ""
+
+#: includes/class-woobt.php:826
+msgid "Default above text"
+msgstr ""
+
+#: includes/class-woobt.php:833
+msgid "The default text above products list. You can overwrite it for each product in product settings."
+msgstr ""
+
+#: includes/class-woobt.php:837
+msgid "Default under text"
+msgstr ""
+
+#: includes/class-woobt.php:844
+msgid "The default text under products list. You can overwrite it for each product in product settings."
+msgstr ""
+
+#: includes/class-woobt.php:849
+msgid "Alert"
+msgstr ""
+
+#: includes/class-woobt.php:853
+msgid "Require selection"
+msgstr ""
+
+#: includes/class-woobt.php:859
+#: includes/class-woobt.php:1546
+msgid "Please select a purchasable variation for [name] before adding this product to the cart."
+msgstr ""
+
+#: includes/class-woobt.php:876
+msgid "Data Migration"
+msgstr ""
+
+#: includes/class-woobt.php:878
+msgid "If selected products don't appear on the current version. Please try running Migrate tool."
+msgstr ""
+
+#: includes/class-woobt.php:931
+msgid "Migrating..."
+msgstr ""
+
+#: includes/class-woobt.php:932
+msgid "Please wait until it has finished!"
+msgstr ""
+
+#: includes/class-woobt.php:944
+msgid "Finished!"
+msgstr ""
+
+#: includes/class-woobt.php:947
+msgid "Migrate"
+msgstr ""
+
+#: includes/class-woobt.php:1001
+msgid "Our plugin checks rules from the top down the list. When there are products that satisfy more than 1 rule, the first rule on top will be prioritized. Please make sure you put the rules in the order of the most to the least prioritized."
+msgstr ""
+
+#: includes/class-woobt.php:1027
+msgid "+ Add rule"
+msgstr ""
+
+#: includes/class-woobt.php:1029
+msgid "Expand All"
+msgstr ""
+
+#: includes/class-woobt.php:1031
+msgid "Collapse All"
+msgstr ""
+
+#: includes/class-woobt.php:1083
+msgid "duplicate"
+msgstr ""
+
+#: includes/class-woobt.php:1085
+msgid "remove"
+msgstr ""
+
+#: includes/class-woobt.php:1089
+msgid "Active"
+msgstr ""
+
+#: includes/class-woobt.php:1099
+#: includes/class-woobt.php:1199
+msgid "Name"
+msgstr ""
+
+#: includes/class-woobt.php:1106
+msgid "For management only."
+msgstr ""
+
+#: includes/class-woobt.php:1111
+msgid "Add FBT products to which?"
+msgstr ""
+
+#: includes/class-woobt.php:1117
+msgid "Define applicable FBT products:"
+msgstr ""
+
+#: includes/class-woobt.php:1144
+#: includes/class-woobt.php:2649
+msgid "Above text"
+msgstr ""
+
+#: includes/class-woobt.php:1153
+#: includes/class-woobt.php:2660
+msgid "Under text"
+msgstr ""
+
+#: includes/class-woobt.php:1170
+msgid "Source"
+msgstr ""
+
+#: includes/class-woobt.php:1176
+msgid "All products"
+msgstr ""
+
+#: includes/class-woobt.php:1177
+msgid "Selected products"
+msgstr ""
+
+#: includes/class-woobt.php:1178
+#: includes/class-woobt.php:1241
+msgid "Combined"
+msgstr ""
+
+#: includes/class-woobt.php:1194
+msgid "Order by"
+msgstr ""
+
+#: includes/class-woobt.php:1197
+msgid "None"
+msgstr ""
+
+#: includes/class-woobt.php:1198
+msgid "ID"
+msgstr ""
+
+#: includes/class-woobt.php:1200
+msgid "Type"
+msgstr ""
+
+#: includes/class-woobt.php:1201
+msgid "Date"
+msgstr ""
+
+#: includes/class-woobt.php:1203
+msgid "Modified"
+msgstr ""
+
+#: includes/class-woobt.php:1204
+msgid "Random"
+msgstr ""
+
+#: includes/class-woobt.php:1208
+msgid "Order"
+msgstr ""
+
+#: includes/class-woobt.php:1211
+msgid "DESC"
+msgstr ""
+
+#: includes/class-woobt.php:1212
+msgid "ASC"
+msgstr ""
+
+#: includes/class-woobt.php:1220
+msgid "Products"
+msgstr ""
+
+#: includes/class-woobt.php:1226
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: includes/class-woobt.php:1244
+msgid "* Configure to find products that match all listed conditions."
+msgstr ""
+
+#: includes/class-woobt.php:1257
+msgid "+ Add condition"
+msgstr ""
+
+#: includes/class-woobt.php:1262
+msgid "Terms"
+msgstr ""
+
+#: includes/class-woobt.php:1303
+msgid "Variations only"
+msgstr ""
+
+#: includes/class-woobt.php:1304
+msgid "Non-variation products"
+msgstr ""
+
+#: includes/class-woobt.php:1306
+msgid "Has same"
+msgstr ""
+
+#: includes/class-woobt.php:1320
+msgid "including"
+msgstr ""
+
+#: includes/class-woobt.php:1321
+msgid "excluding"
+msgstr ""
+
+#: includes/class-woobt.php:1436
+msgid "Search limit"
+msgstr ""
+
+#: includes/class-woobt.php:1445
+msgid "Search by SKU"
+msgstr ""
+
+#: includes/class-woobt.php:1454
+msgid "Search by ID"
+msgstr ""
+
+#: includes/class-woobt.php:1460
+msgid "Search by ID when entering the numeric only."
+msgstr ""
+
+#: includes/class-woobt.php:1464
+msgid "Search exact"
+msgstr ""
+
+#: includes/class-woobt.php:1470
+msgid "Match whole product title or content?"
+msgstr ""
+
+#: includes/class-woobt.php:1474
+msgid "Search sentence"
+msgstr ""
+
+#: includes/class-woobt.php:1480
+msgid "Do a phrase search?"
+msgstr ""
+
+#: includes/class-woobt.php:1484
+msgid "Accept same products"
+msgstr ""
+
+#: includes/class-woobt.php:1490
+msgid "If yes, a product can be added many times."
+msgstr ""
+
+#: includes/class-woobt.php:1494
+msgid "Product types"
+msgstr ""
+
+#: includes/class-woobt.php:1499
+msgid "All"
+msgstr ""
+
+#: includes/class-woobt.php:1505
+msgid " → Variation"
+msgstr ""
+
+#: includes/class-woobt.php:1616
+msgid "Community support"
+msgstr ""
+
+#: includes/class-woobt.php:1628
+msgid "Bought together (Disabled)"
+msgstr ""
+
+#. translators: count
+#: includes/class-woobt.php:1640
+#, php-format
+msgid "Bought together (%d)"
+msgstr ""
+
+#: includes/class-woobt.php:1724
+msgid "One of the associated products is unavailable."
+msgstr ""
+
+#. translators: product name
+#: includes/class-woobt.php:1725
+#: includes/class-woobt.php:1733
+#: includes/class-woobt.php:1742
+#: includes/class-woobt.php:1748
+#: includes/class-woobt.php:1756
+#: includes/class-woobt.php:1765
+#: includes/class-woobt.php:1771
+#: includes/class-woobt.php:1780
+#: includes/class-woobt.php:1787
+#: includes/class-woobt.php:1796
+#: includes/class-woobt.php:1803
+#: includes/class-woobt.php:1810
+msgid "You cannot add this product to the cart."
+msgstr ""
+
+#. translators: product name
+#: includes/class-woobt.php:1779
+#, php-format
+msgid "\"%s\" is un-purchasable."
+msgstr ""
+
+#. translators: product name
+#: includes/class-woobt.php:1786
+#, php-format
+msgid "You cannot add another \"%s\" to the cart."
+msgstr ""
+
+#. translators: product name
+#: includes/class-woobt.php:1795
+#, php-format
+msgid "\"%s\" does not reach the minimum quantity."
+msgstr ""
+
+#. translators: product name
+#: includes/class-woobt.php:1802
+#, php-format
+msgid "\"%s\" passes the maximum quantity."
+msgstr ""
+
+#. translators: keyword
+#: includes/class-woobt.php:2315
+#, php-format
+msgid "No results found for \"%s\""
+msgstr ""
+
+#: includes/class-woobt.php:2350
+msgid "Add"
+msgstr ""
+
+#. translators: product ID
+#: includes/class-woobt.php:2352
+#: includes/class-woobt.php:2365
+#: includes/class-woobt.php:2376
+msgid "Remove"
+msgstr ""
+
+#: includes/class-woobt.php:2357
+msgid "Set a new price using a number (eg. \"49\") or percentage (eg. \"90%\" of original price)"
+msgstr ""
+
+#: includes/class-woobt.php:2357
+msgid "Default quantity"
+msgstr ""
+
+#. translators: product ID
+#: includes/class-woobt.php:2365
+#, php-format
+msgid "Product ID %d does not exist."
+msgstr ""
+
+#: includes/class-woobt.php:2404
+msgid "Product wasn't returned."
+msgstr ""
+
+#: includes/class-woobt.php:2419
+msgid "Search settings"
+msgstr ""
+
+#: includes/class-woobt.php:2426
+msgid "Update Options"
+msgstr ""
+
+#: includes/class-woobt.php:2434
+msgid "Disable"
+msgstr ""
+
+#: includes/class-woobt.php:2445
+msgid "settings"
+msgstr ""
+
+#: includes/class-woobt.php:2450
+msgid "searching..."
+msgstr ""
+
+#: includes/class-woobt.php:2452
+msgid "Type any keyword to search"
+msgstr ""
+
+#: includes/class-woobt.php:2459
+msgid "Selected"
+msgstr ""
+
+#: includes/class-woobt.php:2462
+msgid "import/export"
+msgstr ""
+
+#. translators: links
+#: includes/class-woobt.php:2467
+#, php-format
+msgid "* If don't choose any products, it can shows products from Smart Rules %1$s or Default %2$s."
+msgstr ""
+
+#. translators: links
+#: includes/class-woobt.php:2468
+#: includes/class-woobt.php:2469
+msgid "here"
+msgstr ""
+
+#: includes/class-woobt.php:2501
+#: includes/class-woobt.php:2507
+msgid "+ Add heading/paragraph"
+msgstr ""
+
+#: includes/class-woobt.php:2513
+msgid "Add separately"
+msgstr ""
+
+#: includes/class-woobt.php:2519
+msgid "If enabled, the associated products will be added as separate items and stay unaffected from the main product, their prices will change back to the original."
+msgstr ""
+
+#: includes/class-woobt.php:2534
+msgid "Selecting method"
+msgstr ""
+
+#: includes/class-woobt.php:2537
+msgid "Multiple selection (default)"
+msgstr ""
+
+#: includes/class-woobt.php:2538
+msgid "Single selection (choose 1 only)"
+msgstr ""
+
+#: includes/class-woobt.php:2543
+msgid "Checked all"
+msgstr ""
+
+#: includes/class-woobt.php:2547
+msgid "Checked all by default."
+msgstr ""
+
+#: includes/class-woobt.php:2551
+msgid "Custom quantity"
+msgstr ""
+
+#: includes/class-woobt.php:2555
+msgid "Allow the customer can change the quantity of each product."
+msgstr ""
+
+#: includes/class-woobt.php:2559
+msgid "Sync quantity"
+msgstr ""
+
+#: includes/class-woobt.php:2563
+msgid "Sync the quantity of the main product with associated products."
+msgstr ""
+
+#: includes/class-woobt.php:2567
+msgid "Limit each item"
+msgstr ""
+
+#: includes/class-woobt.php:2571
+msgid "Use default quantity as min"
+msgstr ""
+
+#: includes/class-woobt.php:2585
+msgid "Displaying"
+msgstr ""
+
+#: includes/class-woobt.php:2588
+msgid "Overwrite the default displaying settings"
+msgstr ""
+
+#: includes/class-woobt.php:2595
+#: includes/class-woobt.php:2615
+#: includes/class-woobt.php:2631
+#: includes/class-woobt.php:2641
+msgid "Unset (default setting)"
+msgstr ""
+
+#: includes/class-woobt.php:4499
+msgid "Bought together"
+msgstr ""
+
+#: includes/class-woobt.php:4500
+msgid "With associated products"
+msgstr ""
+
+#: includes/class-woobt.php:4501
+msgid "Without associated products"
+msgstr ""
+
+#: includes/class-woobt.php:4556
+msgid "Before wrapper"
+msgstr ""
+
+#: includes/class-woobt.php:4557
+msgid "After wrapper"
+msgstr ""
+
+#: includes/class-woobt.php:4558
+msgid "Before products"
+msgstr ""
+
+#: includes/class-woobt.php:4559
+msgid "After products"
+msgstr ""
+
+#: includes/class-woobt.php:4560
+msgid "Before sub-product"
+msgstr ""
+
+#: includes/class-woobt.php:4561
+msgid "After sub-product"
+msgstr ""
+
+#: includes/class-woobt.php:4562
+msgid "Before sub-product thumbnail"
+msgstr ""
+
+#: includes/class-woobt.php:4563
+msgid "After sub-product thumbnail"
+msgstr ""
+
+#: includes/class-woobt.php:4564
+msgid "Before sub-product name"
+msgstr ""
+
+#: includes/class-woobt.php:4565
+msgid "After sub-product name"
+msgstr ""
+
+#: includes/class-woobt.php:4566
+msgid "Before sub-product price"
+msgstr ""
+
+#: includes/class-woobt.php:4567
+msgid "After sub-product price"
+msgstr ""
+
+#: includes/class-woobt.php:4568
+msgid "Before sub-product quantity"
+msgstr ""
+
+#: includes/class-woobt.php:4569
+msgid "After sub-product quantity"
+msgstr ""

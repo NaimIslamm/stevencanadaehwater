@@ -1,0 +1,213 @@
+{
+    "version": "0.4",
+    "title": "Products Grid",
+    "type": "loop-item",
+    "metadata": {
+        "template_type": "section-loop",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "loop-item",
+        "additional_template_information": [
+            "This is a \"Loop Item\" template for Elementor Pro."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "3bdff2ec",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "flex_gap": {
+                    "column": "20",
+                    "row": "20",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 20
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "overflow": "hidden",
+                "border_radius": {
+                    "unit": "px",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "84e80c5",
+                    "settings": {
+                        "image": {
+                            "id": "14",
+                            "url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/image-replace-product.jpg"
+                        },
+                        "image_size": "full",
+                        "link_to": "custom",
+                        "align": "center",
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "__dynamic__": {
+                            "image": "[elementor-tag id=\"949d990\" name=\"post-featured-image\" settings=\"%7B%7D\"]",
+                            "link": "[elementor-tag id=\"59ca139\" name=\"post-url\" settings=\"%7B%7D\"]"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "image",
+                    "elType": "widget"
+                },
+                {
+                    "id": "7039d70a",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_align_items": "center",
+                        "flex_gap": {
+                            "column": "23",
+                            "row": "23",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 23
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "position": "absolute",
+                        "_offset_orientation_v": "end",
+                        "_offset_y_end": {
+                            "unit": "px",
+                            "size": 40,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "cfa8a38",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 80,
+                                    "sizes": []
+                                },
+                                "flex_gap": {
+                                    "column": "10",
+                                    "row": "10",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 10
+                                },
+                                "background_background": "classic",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "5",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "_title": "Box",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=34fcf59"
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "179839c0",
+                                    "settings": {
+                                        "__dynamic__": {
+                                            "title": "[elementor-tag id=\"\" name=\"post-title\" settings=\"%7B%22before%22%3A%22%22%2C%22after%22%3A%22%22%2C%22fallback%22%3A%22%22%7D\"]",
+                                            "link": "[elementor-tag id=\"3e5fb5a\" name=\"post-url\" settings=\"%7B%7D\"]"
+                                        },
+                                        "title": "Add Your Heading Text Here",
+                                        "header_size": "h4",
+                                        "align": "center"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "theme-post-title",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "333dea23",
+                                    "settings": {
+                                        "text_align": "center",
+                                        "sale_price_spacing": {
+                                            "unit": "px",
+                                            "size": 5,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "typography_typography": "globals\/typography?id=text",
+                                            "sale_price_color": "globals\/colors?id=445bfed",
+                                            "sale_price_typography_typography": "globals\/typography?id=text"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "woocommerce-product-price",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

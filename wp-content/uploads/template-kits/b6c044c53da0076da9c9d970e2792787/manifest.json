@@ -1,0 +1,1671 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Cooleri",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Delivery",
+            "screenshot": "screenshots\/delivery.jpg",
+            "source": "templates\/delivery.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=delivery",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Post Grid 01",
+            "screenshot": "screenshots\/post-grid-01.jpg",
+            "source": "templates\/post-grid-01.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=post-grid-01",
+            "type": "loop-item",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-loop",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "loop-item",
+                "additional_template_information": [
+                    "This is a \"Loop Item\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=home",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=about",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Prices",
+            "screenshot": "screenshots\/prices.jpg",
+            "source": "templates\/prices.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=prices",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=services",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=contact",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive",
+            "screenshot": "screenshots\/archive.jpg",
+            "source": "templates\/archive.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive Products",
+            "screenshot": "screenshots\/archive-products.jpg",
+            "source": "templates\/archive-products.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=archive-products",
+            "type": "product-archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product-archive",
+                "elementor_pro_conditions": [
+                    "include\/product_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product Archive\" template for Elementor Pro.",
+                    "This template will display on: All Product Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Product",
+            "screenshot": "screenshots\/single-product.jpg",
+            "source": "templates\/single-product.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=single-product",
+            "type": "product",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product",
+                "elementor_pro_conditions": [
+                    "include\/product"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product\" template for Elementor Pro.",
+                    "This template will display on: Products."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Cart",
+            "screenshot": "screenshots\/cart.jpg",
+            "source": "templates\/cart.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=cart",
+            "type": "single-page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-page",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page\/51"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Page\" template for Elementor Pro.",
+                    "This template will display on: Page #51."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=coming-soon",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=404-page",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Checkout",
+            "screenshot": "screenshots\/checkout.jpg",
+            "source": "templates\/checkout.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=checkout",
+            "type": "single-page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-page",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page\/52"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Page\" template for Elementor Pro.",
+                    "This template will display on: Page #52."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Products Grid",
+            "screenshot": "screenshots\/products-grid.jpg",
+            "source": "templates\/products-grid.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=products-grid-home-08",
+            "type": "loop-item",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-loop",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "loop-item",
+                "additional_template_information": [
+                    "This is a \"Loop Item\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "My Account",
+            "screenshot": "screenshots\/my-account.jpg",
+            "source": "templates\/my-account.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=my-account",
+            "type": "single-page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-page",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page\/53"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Page\" template for Elementor Pro.",
+                    "This template will display on: Page #53."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Post Grid 02",
+            "screenshot": "screenshots\/post-grid-02.jpg",
+            "source": "templates\/post-grid-02.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=post-grid-02",
+            "type": "loop-item",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-loop",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "loop-item",
+                "additional_template_information": [
+                    "This is a \"Loop Item\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Purchase Summary",
+            "screenshot": "screenshots\/purchase-summary.jpg",
+            "source": "templates\/purchase-summary.json",
+            "preview_url": "https:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/?elementor_library=purchase-summary",
+            "type": "single-page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-page",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page\/307"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Page\" template for Elementor Pro.",
+                    "This template will display on: Page #307."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "WooCommerce",
+            "version": "9.3.3",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.24.7",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.24.4",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "post-06.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/post-06-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/delivery.json",
+                    "name": "Delivery"
+                }
+            ],
+            "filesize": 202494,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/children-with-her-mom-drinking-water-from-the-plas-S3D747W"
+        },
+        {
+            "filename": "icon-white-02.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/icon-white-02.png",
+            "templates": [
+                {
+                    "source": "templates\/delivery.json",
+                    "name": "Delivery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2968,
+            "dimensions": [
+                133,
+                167
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/water-icon-2BKTLDA"
+        },
+        {
+            "filename": "icon-white-03.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/icon-white-03.png",
+            "templates": [
+                {
+                    "source": "templates\/delivery.json",
+                    "name": "Delivery"
+                }
+            ],
+            "filesize": 2363,
+            "dimensions": [
+                158,
+                167
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/water-icon-2BKTLDA"
+        },
+        {
+            "filename": "icon-white-01.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/icon-white-01.png",
+            "templates": [
+                {
+                    "source": "templates\/delivery.json",
+                    "name": "Delivery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2426,
+            "dimensions": [
+                133,
+                167
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/water-icon-2BKTLDA"
+        },
+        {
+            "filename": "wave-04-min.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/wave-04-min-800x522.png",
+            "templates": [
+                {
+                    "source": "templates\/delivery.json",
+                    "name": "Delivery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/cart.json",
+                    "name": "Cart"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/my-account.json",
+                    "name": "My Account"
+                }
+            ],
+            "filesize": 39714,
+            "dimensions": [
+                3608,
+                2354
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "square-01.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/square-01-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/delivery.json",
+                    "name": "Delivery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                }
+            ],
+            "filesize": 49421,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/large-bottle-of-pure-water-NB8GGHJ"
+        },
+        {
+            "filename": "square-06.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/square-06-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/delivery.json",
+                    "name": "Delivery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                }
+            ],
+            "filesize": 56841,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/plastic-water-bottle-PS6J2S9"
+        },
+        {
+            "filename": "delivery-man-pushing-cart-with-water-bottles-2023-11-27-05-03-11-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/delivery-man-pushing-cart-with-water-bottles-2023-11-27-05-03-11-utc-800x1198.jpg",
+            "templates": [
+                {
+                    "source": "templates\/delivery.json",
+                    "name": "Delivery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 185219,
+            "dimensions": [
+                1281,
+                1919
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/delivery-man-pushing-cart-with-water-bottles-JUPLJST"
+        },
+        {
+            "filename": "side-view-of-courier-carrying-on-shoulder-bottled-2023-11-27-04-49-28-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/side-view-of-courier-carrying-on-shoulder-bottled-2023-11-27-04-49-28-utc-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/delivery.json",
+                    "name": "Delivery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 137798,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/side-view-of-courier-carrying-on-shoulder-bottled--DYU5QSR"
+        },
+        {
+            "filename": "woman-receiving-water-bottles-delivery-from-loader-2023-11-27-04-58-54-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/woman-receiving-water-bottles-delivery-from-loader-2023-11-27-04-58-54-utc-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/delivery.json",
+                    "name": "Delivery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 149578,
+            "dimensions": [
+                1281,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/woman-receiving-water-bottles-delivery-from-loader-G2CBXTK"
+        },
+        {
+            "filename": "perfectly-refreshing-studio-shot-of-three-glass-w-2023-11-27-05-08-38-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/perfectly-refreshing-studio-shot-of-three-glass-w-2023-11-27-05-08-38-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/delivery.json",
+                    "name": "Delivery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 158693,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/perfectly-refreshing-studio-shot-of-three-glass-wa-LEQHRSM"
+        },
+        {
+            "filename": "wave-03-min.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/wave-03-min-800x570.png",
+            "templates": [
+                {
+                    "source": "templates\/delivery.json",
+                    "name": "Delivery"
+                },
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/checkout.json",
+                    "name": "Checkout"
+                }
+            ],
+            "filesize": 51575,
+            "dimensions": [
+                4492,
+                3200
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "wave-01-min.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/wave-01-min-800x395.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 59756,
+            "dimensions": [
+                5229,
+                2583
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 6780,
+            "dimensions": [
+                661,
+                173
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "avatar-05.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/avatar-05-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 65915,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-asian-woman-holding-yoga-mat-and-lookin-9VRSW9G"
+        },
+        {
+            "filename": "avatar-06.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/avatar-06-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 79071,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-portrait-of-handsome-adult-man-in-wireles-GVLA66G"
+        },
+        {
+            "filename": "wave-02-min.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/wave-02-min-800x395.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/archive-products.json",
+                    "name": "Archive Products"
+                },
+                {
+                    "source": "templates\/purchase-summary.json",
+                    "name": "Purchase Summary"
+                }
+            ],
+            "filesize": 59756,
+            "dimensions": [
+                5229,
+                2583
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "shot-of-a-man-drinking-water-while-out-for-a-run-o-2023-11-27-05-18-18-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/shot-of-a-man-drinking-water-while-out-for-a-run-o-2023-11-27-05-18-18-utc-800x566.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 192354,
+            "dimensions": [
+                1920,
+                1359
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/shot-of-a-man-drinking-water-while-out-for-a-run-o-LVZUQW5"
+        },
+        {
+            "filename": "plastic-large-blue-water-bottles-on-floor-2023-11-27-04-56-33-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/plastic-large-blue-water-bottles-on-floor-2023-11-27-04-56-33-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 198385,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/plastic-large-blue-water-bottles-on-floor-XGRPXF4"
+        },
+        {
+            "filename": "transparent.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/transparent.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 957,
+            "dimensions": [
+                1,
+                1
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "mask-drop.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/mask-drop.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 15845,
+            "dimensions": [
+                527,
+                527
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "mask-drop-2.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/mask-drop-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 18536,
+            "dimensions": [
+                409,
+                416
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "avatar-01.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/avatar-01-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 100871,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/im-just-out-living-life-shot-of-an-attractive-youn-GK2VZSQ"
+        },
+        {
+            "filename": "avatr-02.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/avatr-02-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 86895,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-confident-young-businessman-working--Q35B6KK"
+        },
+        {
+            "filename": "avatar-04.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/avatar-04-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 50539,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/face-business-and-black-woman-in-office-smile-and--EVHA64V"
+        },
+        {
+            "filename": "avatar-03.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/avatar-03-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 105266,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-business-and-man-with-arms-crossed-smile--SS584H6"
+        },
+        {
+            "filename": "wave-05-min.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/wave-05-min-800x325.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 73693,
+            "dimensions": [
+                5558,
+                2258
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "drop-icon-3.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/drop-icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 17318,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "water-bottle-2.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/water-bottle-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 27403,
+            "dimensions": [
+                279,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/plastic-bottle-of-water-P8BSEV8"
+        },
+        {
+            "filename": "water-bottle-1.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/water-bottle-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 23341,
+            "dimensions": [
+                279,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/bottle-of-water-isolated-path-P3M2VKA"
+        },
+        {
+            "filename": "cropped-image-of-young-woman-holding-sport-bottle-2023-11-27-05-12-06-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/cropped-image-of-young-woman-holding-sport-bottle-2023-11-27-05-12-06-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                }
+            ],
+            "filesize": 95143,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/cropped-image-of-young-woman-holding-sport-bottle--Z7UGFER"
+        },
+        {
+            "filename": "smiling-delivery-man-carrying-water-bottle-on-shou-2023-11-27-05-20-22-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/smiling-delivery-man-carrying-water-bottle-on-shou-2023-11-27-05-20-22-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 126960,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-delivery-man-carrying-water-bottle-on-shou-SRFHK2K"
+        },
+        {
+            "filename": "smiling-delivery-man-holding-water-bottle-and-show-2023-11-27-04-52-54-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/smiling-delivery-man-holding-water-bottle-and-show-2023-11-27-04-52-54-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 104591,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-delivery-man-holding-water-bottle-and-show-33C498B"
+        },
+        {
+            "filename": "icon-04.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/icon-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 10365,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/15-water-icons-DRC822H"
+        },
+        {
+            "filename": "icon-03.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/icon-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 4864,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/15-water-icons-DRC822H"
+        },
+        {
+            "filename": "icon-02.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/icon-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7358,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/15-water-icons-DRC822H"
+        },
+        {
+            "filename": "icon-01.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/icon-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 14624,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/15-water-icons-DRC822H"
+        },
+        {
+            "filename": "square-02-1.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/square-02-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 115664,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/rows-of-plastic-blue-water-bottles-YSW4UZ6"
+        },
+        {
+            "filename": "happy-mixed-race-family-walking-along-the-beach-en-2023-11-27-05-24-41-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/happy-mixed-race-family-walking-along-the-beach-en-2023-11-27-05-24-41-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 97775,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/happy-mixed-race-family-walking-along-the-beach-en-T4SR9P7"
+        },
+        {
+            "filename": "flowing-water-background-with-drops-isolated-on-w-2023-11-27-05-08-03-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/flowing-water-background-with-drops-isolated-on-w-2023-11-27-05-08-03-utc-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 95301,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/water-drops-sprays-splashes-stream-flow-abstractio-PLW6KEJ"
+        },
+        {
+            "filename": "scientist-pouring-chemical-liquid-into-laboratory-2023-11-27-05-04-22-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/scientist-pouring-chemical-liquid-into-laboratory-2023-11-27-05-04-22-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 76329,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/scientist-pouring-chemical-liquid-into-laboratory--3MDVR43"
+        },
+        {
+            "filename": "woman-looking-at-delivery-man-holding-water-bottle-2023-11-27-05-16-18-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/woman-looking-at-delivery-man-holding-water-bottle-2023-11-27-05-16-18-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 155588,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/woman-looking-at-delivery-man-holding-water-bottle-BXZM6FK"
+        },
+        {
+            "filename": "rows-of-large-blue-water-bottles-2023-11-27-05-24-12-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/rows-of-large-blue-water-bottles-2023-11-27-05-24-12-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 158273,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/rows-of-large-blue-water-bottles-W9QJ7YJ"
+        },
+        {
+            "filename": "cropped-view-of-delivery-man-holding-heavy-bottle-2023-11-27-05-04-31-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/cropped-view-of-delivery-man-holding-heavy-bottle-2023-11-27-05-04-31-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                }
+            ],
+            "filesize": 205567,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/cropped-view-of-delivery-man-holding-heavy-bottle--N9MBRKW"
+        },
+        {
+            "filename": "square-07.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/square-07-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                }
+            ],
+            "filesize": 42705,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/plastic-water-bottle-PS6J2S9"
+        },
+        {
+            "filename": "a-glass-of-water-can-do-the-world-of-good-studio-2023-11-27-05-36-28.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/a-glass-of-water-can-do-the-world-of-good-studio-2023-11-27-05-36-28-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                }
+            ],
+            "filesize": 132324,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-glass-of-water-can-do-the-world-of-good-studio-s-Y74NLG7"
+        },
+        {
+            "filename": "square-04.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/square-04-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                }
+            ],
+            "filesize": 60582,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/big-bottle-of-drinking-water-isolated-on-a-white-b-P7AUQUE"
+        },
+        {
+            "filename": "icon-whote-2.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/icon-whote-2.png",
+            "templates": [
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                }
+            ],
+            "filesize": 9115,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/15-water-icons-DRC822H"
+        },
+        {
+            "filename": "icon-white-4.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/icon-white-4.png",
+            "templates": [
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                }
+            ],
+            "filesize": 6872,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/15-water-icons-DRC822H"
+        },
+        {
+            "filename": "icon-white-3.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/icon-white-3.png",
+            "templates": [
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                }
+            ],
+            "filesize": 4485,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/15-water-icons-DRC822H"
+        },
+        {
+            "filename": "rows-of-plastic-blue-water-bottles-2023-11-27-05-19-28-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/rows-of-plastic-blue-water-bottles-2023-11-27-05-19-28-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 157071,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/rows-of-plastic-blue-water-bottles-YSW4UZ6"
+        },
+        {
+            "filename": "rear-view-of-loader-carrying-water-bottle-on-shoul-2023-11-27-05-03-13-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/rear-view-of-loader-carrying-water-bottle-on-shoul-2023-11-27-05-03-13-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 126853,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/rear-view-of-loader-carrying-water-bottle-on-shoul-QKGL7QX"
+        },
+        {
+            "filename": "water-drops-sprays-splashes-stream-flow-abst-2023-11-27-05-15-15-utc.jpg",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/water-drops-sprays-splashes-stream-flow-abst-2023-11-27-05-15-15-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/archive-products.json",
+                    "name": "Archive Products"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                },
+                {
+                    "source": "templates\/cart.json",
+                    "name": "Cart"
+                },
+                {
+                    "source": "templates\/checkout.json",
+                    "name": "Checkout"
+                },
+                {
+                    "source": "templates\/my-account.json",
+                    "name": "My Account"
+                },
+                {
+                    "source": "templates\/purchase-summary.json",
+                    "name": "Purchase Summary"
+                }
+            ],
+            "filesize": 203708,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/water-drops-sprays-splashes-stream-flow-abstractio-PLW6KEJ"
+        },
+        {
+            "filename": "logo-white.png",
+            "thumbnail_url": "http:\/\/elementor-kits-04.nicdark.com\/water-wordpress-elementor-kit\/wp-content\/uploads\/sites\/2\/2024\/04\/logo-white.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 6430,
+            "dimensions": [
+                661,
+                173
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        }
+    ]
+}
